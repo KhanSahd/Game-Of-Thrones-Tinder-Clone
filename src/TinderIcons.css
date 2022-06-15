@@ -1,0 +1,36 @@
+.tinderIcons {
+    position: absolute;
+    bottom: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+}
+
+
+
+.tinderIcons__icon {
+    background-color: rgb(255, 255, 255) !important;
+    border-radius: 50px !important;
+    padding: 1vw !important;
+}
+
+.repeat {
+    color: #FF8500 !important;
+}
+
+.left {
+    color: #F2292B !important; 
+}
+
+.super {
+    color: #01A5FE !important;
+}
+
+.like {
+    color: #51DA90 !important ;
+}
+
+.boost {
+    color: #A46BD8 !important;
+}
