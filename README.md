@@ -28,7 +28,7 @@ A fun Tinder Clone project with Game of Thrones characters.
 
 ### Link
 
-- Live Site URL: [Game of Thrones Tinder-Clone](https://khansahd.github.io/Expenses-Chart-Component/)
+- Live Site URL: [Game-of-Tinder](https://tinder-15dec.web.app)
 
 ## My process
 
